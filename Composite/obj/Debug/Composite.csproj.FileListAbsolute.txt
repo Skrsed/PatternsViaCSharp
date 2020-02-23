@@ -1,0 +1,14 @@
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\bin\Debug\Composite.exe.config
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\bin\Debug\Composite.exe
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\bin\Debug\Composite.pdb
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\obj\Debug\Composite.exe
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\obj\Debug\Composite.pdb
+C:\Users\Konstantin\source\repos\PatternsSequel\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\Desktop\patterns\Composite\bin\Debug\Composite.exe.config
+D:\Desktop\patterns\Composite\bin\Debug\Composite.exe
+D:\Desktop\patterns\Composite\bin\Debug\Composite.pdb
+D:\Desktop\patterns\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\Desktop\patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\Desktop\patterns\Composite\obj\Debug\Composite.exe
+D:\Desktop\patterns\Composite\obj\Debug\Composite.pdb
